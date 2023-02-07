@@ -17,6 +17,7 @@ public class ClassB {
 	
 	{
 	System.out.println("Will look for experience.");	
+	System.out.println( "Software Testing");
 	}
 
 }
